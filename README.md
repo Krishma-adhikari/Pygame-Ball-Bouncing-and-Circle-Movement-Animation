@@ -22,5 +22,5 @@ This project is made for learning:
 2. Movement using coordinates
 3. Game loop structure
 
-##  Quote
+
 > "Small steps every day lead to big results."
