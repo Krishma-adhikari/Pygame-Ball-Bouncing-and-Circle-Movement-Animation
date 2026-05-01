@@ -19,7 +19,7 @@ This project focuses on understanding basic movement, animation, and game loop c
 - 🔁 Basic Pygame game loop implementation  
 - 💥 Collision with screen edges  
 - 🚗 Simple car movement from left to right  
-
+- 🟠Collecting Balls by moving rectangle.
 ---
 
 ## 🎯 Purpose
